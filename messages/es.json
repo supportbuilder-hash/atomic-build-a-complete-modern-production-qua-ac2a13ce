@@ -1,0 +1,1625 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "findProfessionals": "Encontrar Profesionales",
+    "howItWorks": "Cómo Funciona",
+    "forProviders": "Para Proveedores",
+    "signIn": "Iniciar Sesión",
+    "bookNow": "Reservar un Profesional"
+  },
+  "booking": {
+    "back": "Atrás",
+    "confirmed": {
+      "bookingId": "Reserva #{{id}}",
+      "emailNote": "Se ha enviado una confirmación a tu correo",
+      "myBookings": "Ver Mis Reservas",
+      "subtitle": "Tu profesional de servicio llegará pronto",
+      "title": "¡Reserva Confirmada!",
+      "trackBooking": "Rastrear Tu Servicio"
+    },
+    "header": {
+      "bookWith": "Reservar con",
+      "verified": "Profesional Verificado"
+    },
+    "next": "Siguiente",
+    "step1": {
+      "estimated": "Costo estimado",
+      "popular": "Servicios populares",
+      "servicesSelected": "Servicio seleccionado",
+      "subtitle": "Cuéntanos qué necesita reparación",
+      "title": "¿Qué Servicio Necesitas?"
+    },
+    "step2": {
+      "browse": "Ver todos los servicios",
+      "chars": "caracteres restantes",
+      "descLabel": "Describe el problema",
+      "descPlaceholder": "Comparte detalles para ayudar a los profesionales a dar presupuestos precisos...",
+      "dropzone": "Arrastra fotos aquí o haz clic para cargar",
+      "dropzoneHint": "JPG, PNG hasta 5MB cada una",
+      "photoLabel": "Agregar fotos (opcional)",
+      "quickSelect": "Problemas comunes",
+      "subtitle": "Ayúdanos a entender mejor tus necesidades",
+      "title": "Cuéntanos Más"
+    },
+    "step3": {
+      "selectDate": "Selecciona una fecha",
+      "selectTime": "Selecciona una hora",
+      "subtitle": "Elige cuándo deseas el servicio",
+      "title": "¿Cuándo Lo Necesitas?",
+      "today": "Hoy",
+      "unavailableNote": "Sin disponibilidad para esta fecha"
+    },
+    "step4": {
+      "addNew": "Agregar nueva dirección",
+      "city": "Ciudad",
+      "cityPlaceholder": "Ingrese ciudad",
+      "line1": "Dirección de calle",
+      "line1Placeholder": "123 Main Street",
+      "line2": "Apartamento, suite, etc.",
+      "line2Placeholder": "Apt 4B (opcional)",
+      "newAddress": "Nueva dirección",
+      "savedAddresses": "Direcciones guardadas",
+      "state": "Estado",
+      "subtitle": "¿Dónde debemos enviar al profesional?",
+      "title": "Ubicación del servicio",
+      "zip": "Código postal"
+    },
+    "step5": {
+      "confirm": "Confirmar y pagar",
+      "platformFee": "Tarifa de plataforma",
+      "pricingBreakdown": "Desglose de precios",
+      "problemDesc": "Descripción del problema",
+      "reviews": "Reseñas",
+      "scheduleLocation": "Horario y ubicación",
+      "serviceFee": "Tarifa de servicio",
+      "services": "Servicios",
+      "subtitle": "Revise los detalles de su reserva antes de confirmar",
+      "tax": "Impuesto",
+      "title": "Resumen del pedido",
+      "total": "Total",
+      "trust1": "Profesionales verificados",
+      "trust2": "Pagos seguros",
+      "trust3": "Garantía de devolución de dinero",
+      "verified": "Todos los profesionales verificados"
+    }
+  },
+  "bookings": {
+    "emptyDescription": "Comience buscando un servicio o explorando nuestros profesionales de confianza",
+    "emptyTitle": "Sin reservas aún",
+    "findProfessionalsCta": "Encontrar profesionales",
+    "heading": "Explorar servicios",
+    "loadMore": "Cargar más",
+    "newBookingCta": "Nueva reserva",
+    "searchPlaceholder": "Buscar por servicio o nombre del profesional",
+    "subheading": "Descubra expertos verificados en su área"
+  },
+  "customerDashboard": {
+    "bookings": {
+      "empty": "Aún no ha reservado ningún servicio",
+      "rate": "Calificar servicio",
+      "tabs": {
+        "all": "Todos",
+        "completed": "Completado",
+        "upcoming": "Próximos"
+      },
+      "title": "Tus Reservas",
+      "track": "Rastrear Servicio",
+      "viewAll": "Ver Todas las Reservas"
+    },
+    "chart": {
+      "subtitle": "Tu gasto a lo largo del tiempo",
+      "title": "Tendencias de Gasto"
+    },
+    "editProfile": "Editar Perfil",
+    "greeting": "Bienvenido de vuelta",
+    "nextBooking": {
+      "date": "Fecha",
+      "label": "Próxima Reserva",
+      "provider": "Profesional",
+      "service": "Servicio",
+      "time": "Hora",
+      "trackCta": "Rastrear Ahora"
+    },
+    "notifications": {
+      "title": "Notificaciones"
+    },
+    "quickActions": {
+      "title": "Acciones Rápidas"
+    },
+    "saved": {
+      "book": "Reservar Ahora",
+      "title": "Profesionales Guardados",
+      "viewAll": "Ver Todos"
+    },
+    "stats": {
+      "completed": "Completado",
+      "savedPros": "Profesionales Guardados",
+      "totalSpent": "Gasto Total",
+      "upcoming": "Próximos"
+    },
+    "userLocation": "Ubicación del Servicio",
+    "userName": "Nombre"
+  },
+  "findPros": {
+    "applyFilters": "Aplicar Filtros",
+    "browseCategories": "Explorar Categorías",
+    "ctaBadge": "Mejor Valorado",
+    "ctaBody": "Explora profesionales verificados en tu área, lee reseñas y reserva al instante.",
+    "ctaHeading": "¿Listo para comenzar?",
+    "ctaPrimary": "Encontrar Expertos Ahora",
+    "ctaSecondary": "Más Información",
+    "emptyBody": "Intenta ajustar tus filtros de búsqueda o ubicación para encontrar profesionales disponibles.",
+    "emptyReset": "Limpiar Filtros",
+    "emptyTitle": "No se encontraron profesionales",
+    "heading": "Encuentra Profesionales de Confianza",
+    "resultsLabel": "Profesionales Disponibles",
+    "searchPlaceholder": "¿Qué servicio necesitas?",
+    "showingAll": "Mostrando todos los resultados",
+    "subheading": "Explora expertos verificados cerca de ti, compara tarifas y reserva con confianza."
+  },
+  "messages": {
+    "attachFile": "Adjuntar Archivo",
+    "attachImage": "Adjuntar Imagen",
+    "backToList": "Volver a Mensajes",
+    "bookingRef": "Referencia de Reserva",
+    "callButton": "Llamar",
+    "disclaimer": "Los mensajes están encriptados y son seguros.",
+    "emoji": "Agregar Emoji",
+    "emptyState": "Sin mensajes aún",
+    "emptyStateHint": "Inicia una conversación con un profesional para discutir tu proyecto.",
+    "inputPlaceholder": "Escribe tu mensaje...",
+    "moreOptions": "Más Opciones",
+    "noResults": "Ningún mensaje coincide con tu búsqueda.",
+    "offline": "Desconectado",
+    "online": "En línea",
+    "searchPlaceholder": "Buscar mensajes",
+    "sendButton": "Enviar",
+    "subtitle": "Chatea con tu profesional de servicio",
+    "title": "Mensajes",
+    "videoButton": "Iniciar Videollamada",
+    "viewBooking": "Ver Reserva"
+  },
+  "payments": {
+    "chart": {
+      "period": "Últimos 30 Días",
+      "subtitle": "Monitorea tu gasto a lo largo del tiempo",
+      "title": "Actividad de Pagos"
+    },
+    "exportAll": "Exportar Todo",
+    "heading": "Pagos y Facturación",
+    "history": {
+      "empty": "Sin transacciones aún",
+      "emptyHint": "Tu historial de pagos aparecerá aquí una vez que reserves un servicio.",
+      "searchPlaceholder": "Buscar transacciones",
+      "title": "Historial de Transacciones",
+      "transactions": "Transacciones"
+    },
+    "methods": {
+      "addNew": "Agregar Método de Pago",
+      "default": "Predeterminado",
+      "expires": "Vence",
+      "secureNote": "Tu información de pago es segura y está encriptada.",
+      "title": "Métodos de Pago"
+    },
+    "receipt": {
+      "date": "Fecha",
+      "download": "Descargar Recibo",
+      "id": "ID de Recibo",
+      "leaveReview": "Dejar una reseña",
+      "method": "Método de pago",
+      "provider": "Proveedor de servicio",
+      "service": "Servicio",
+      "serviceFee": "Tarifa de servicio",
+      "subtotal": "Subtotal",
+      "total": "Total pagado"
+    },
+    "stats": {
+      "completed": "Completado",
+      "completedSub": "Servicios finalizados",
+      "pending": "Pendiente",
+      "pendingSub": "Esperando pago",
+      "refunded": "Reembolsado",
+      "refundedSub": "Cantidad devuelta",
+      "totalSpent": "Total gastado",
+      "totalSpentSub": "Pagos de todos los tiempos"
+    },
+    "subheading": "Historial de pagos y recibos"
+  },
+  "providerDashboard": {
+    "chart": {
+      "earnings": "Ganancias",
+      "jobs": "Trabajos completados",
+      "subtitle": "Últimos 30 días",
+      "title": "Tu desempeño"
+    },
+    "greeting": "Bienvenido de vuelta",
+    "manageJobs": "Gestionar trabajos",
+    "profile": {
+      "add": "Agregar al perfil",
+      "completeness": "Completitud del perfil",
+      "items": {
+        "bio": "Biografía profesional",
+        "insurance": "Información de seguros",
+        "photo": "Foto de perfil",
+        "portfolio": "Portafolio",
+        "services": "Servicios ofrecidos"
+      },
+      "subtitle": "Completa tu perfil para atraer más clientes",
+      "title": "Fortaleza del perfil"
+    },
+    "quickLinks": {
+      "analytics": "Análisis",
+      "calendar": "Calendario",
+      "earnings": "Ganancias",
+      "jobs": "Trabajos",
+      "messages": "Mensajes",
+      "reviews": "Reseñas",
+      "subtitle": "Acceso rápido a lo esencial",
+      "title": "Enlaces rápidos"
+    },
+    "recentJobs": {
+      "messageCustomer": "Mensaje al cliente",
+      "title": "Trabajos recientes",
+      "viewAll": "Ver todos los trabajos",
+      "viewDetails": "Ver detalles"
+    },
+    "requests": {
+      "accept": "Aceptar",
+      "decline": "Rechazar",
+      "newBadge": "Nuevo",
+      "title": "Solicitudes de servicio",
+      "viewAll": "Ver todas las solicitudes"
+    },
+    "stats": {
+      "avgRating": "Calificación promedio",
+      "jobsCompleted": "Trabajos completados",
+      "monthEarnings": "$2,450",
+      "pendingRequests": "8 Solicitudes",
+      "profileViews": "142 Vistas",
+      "responseRate": "98%"
+    },
+    "subGreeting": "Aquí está tu resumen de desempeño",
+    "viewCalendar": "Ver Calendario",
+    "vsLastMonth": "+12% vs mes anterior",
+    "weeklyChart": {
+      "avgPerDay": "$350/día promedio",
+      "subtitle": "Realiza un seguimiento de tu volumen de trabajos y ganancias semanales",
+      "title": "Desempeño de Esta Semana",
+      "totalJobs": "12 Trabajos",
+      "vsLastWeek": "+3 trabajos vs semana anterior"
+    }
+  },
+  "providerEarnings": {
+    "breakdown": {
+      "jobs": "Por Tipo de Trabajo",
+      "subtitle": "Mira qué servicios te generan más ingresos",
+      "title": "Desglose de Ganancias"
+    },
+    "chart": {
+      "monthly": "Mensual",
+      "subtitle": "Visualiza tus tendencias de ingresos a lo largo del tiempo",
+      "title": "Tendencia de Ganancias",
+      "weekly": "Semanal"
+    },
+    "exportBtn": "Exportar Reporte",
+    "feeInfo": {
+      "bankTransfer": "Transferencia Bancaria",
+      "payoutMethod": "Método de Pago",
+      "payoutSchedule": "Semanal (Cada Viernes)",
+      "platformFee": "Comisión de Plataforma",
+      "title": "Desglose de Ganancias",
+      "totalFeesPaid": "Comisiones Totales Pagadas",
+      "totalNetEarned": "Ganancias Netas Totales"
+    },
+    "filterYear": "2024",
+    "heading": "Tus Ganancias",
+    "nextPayout": "Próximo Pago: Viernes, 20 de Dic",
+    "payoutSchedule": "Pagos cada viernes",
+    "performance": {
+      "avgRating": "4.9 Estrellas",
+      "completionRate": "99%",
+      "repeatCustomers": "68%",
+      "responseTime": "2 min",
+      "title": "Tu Desempeño"
+    },
+    "stats": {
+      "avgPerJob": "$204 por trabajo",
+      "beforeFees": "Antes de Comisiones",
+      "grossRevenue": "$8,920",
+      "jobsCompleted": "43 Completados",
+      "netAfterFees": "Después de Comisiones",
+      "perBooking": "$185 por reserva",
+      "thisYear": "Este Año",
+      "totalEarned": "$7,240"
+    },
+    "subheading": "Gestiona tus pagos y controla tus ingresos",
+    "transactions": {
+      "colCustomer": "Cliente",
+      "colDate": "Fecha",
+      "colFee": "Comisión",
+      "colGross": "Bruto",
+      "colId": "ID del Trabajo",
+      "colNet": "Ganancias Netas",
+      "colRating": "Calificación",
+      "colService": "Servicio",
+      "colStatus": "Estado",
+      "empty": "Sin transacciones aún. Completa tu primer trabajo para ver tus ganancias aquí.",
+      "filterAll": "Todos",
+      "filterPaid": "Pagado",
+      "filterPending": "Pendiente",
+      "filterRefunded": "Reembolsado",
+      "showing": "Mostrando",
+      "subtitle": "Controla cada trabajo y pago en un solo lugar.",
+      "title": "Historial de Transacciones",
+      "viewAll": "Ver Todas las Transacciones"
+    },
+    "trend": {
+      "body": "Tus ganancias van en aumento este mes. Continúa ofreciendo un excelente servicio para aumentar tus ingresos.",
+      "title": "Vas muy bien"
+    },
+    "viewPayoutDetails": "Ver Detalles de Pago"
+  },
+  "providerJobs": {
+    "empty": {
+      "desc": "Cuando los clientes reserven tus servicios, aparecerán aquí.",
+      "title": "Sin trabajos aún"
+    },
+    "heading": "Tus Trabajos",
+    "loadMore": "Cargar Más",
+    "newBadge": "Nuevo",
+    "searchPlaceholder": "Busca trabajos por cliente o servicio...",
+    "stats": {
+      "activeJobs": "Trabajos Activos",
+      "completed": "Completado",
+      "earned": "Total Ganado",
+      "totalJobs": "Total de Trabajos"
+    },
+    "subheading": "Gestiona reservas y realiza un seguimiento de tu progreso."
+  },
+  "services": {
+    "badge": "Experto Verificado",
+    "cta": {
+      "primary": "Reservar Ahora",
+      "secondary": "Ver Perfil",
+      "subtitle": "¿Listo para comenzar? Elige tu experto y reserva al instante.",
+      "title": "¿Encontraste tu coincidencia?"
+    },
+    "empty": {
+      "cta": "Explorar Todos los Servicios",
+      "subtitle": "Intenta ajustar tus filtros o términos de búsqueda.",
+      "title": "No se encontraron expertos"
+    },
+    "featured": {
+      "subtitle": "Profesionales altamente calificados listos para ayudarte.",
+      "title": "Expertos Destacados",
+      "viewAll": "Ver Todos los Expertos"
+    },
+    "filter": {
+      "button": "Filtros",
+      "clearAll": "Limpiar Todo",
+      "quickFilter": "Filtros Rápidos",
+      "resultCount": "resultados",
+      "sortLabel": "Ordenar por"
+    },
+    "hero": {
+      "subtitle": "Encuentra profesionales de confianza cerca de ti, compara precios y reserva servicios en minutos.",
+      "title": "¿Necesitas Algo Reparado?"
+    },
+    "location": {
+      "placeholder": "Tu ubicación"
+    },
+    "search": {
+      "cta": "Encontrar Expertos",
+      "placeholder": "¿Qué servicio necesitas?"
+    },
+    "stats": {
+      "booking": "Reservas Este Mes",
+      "categories": "Categorías de Servicios",
+      "providers": "5,000+ Profesionales Verificados",
+      "satisfaction": "98% Satisfacción del Cliente"
+    }
+  },
+  "hero": [
+    {
+      "type": "heading",
+      "value": "Trusted Professionals, Booked in Minutes"
+    },
+    {
+      "type": "body",
+      "value": "From leaky pipes to flickering circuits — Fixly connects you with verified, top-rated local service professionals who show up on time and get the job done right. Search, compare, and book in under 60 seconds."
+    },
+    {
+      "type": "cta",
+      "value": "Find Professionals Near You"
+    },
+    {
+      "type": "badge",
+      "value": "50,000+ verified professionals across 200+ cities"
+    },
+    {
+      "type": "badge",
+      "value": "4.8★ average rating from 120,000+ customer reviews"
+    },
+    {
+      "type": "badge",
+      "value": "Same-day bookings available 7 days a week"
+    }
+  ],
+  "popular-services": [
+    {
+      "label": "AC Repair & Servicing",
+      "icon": "wind"
+    },
+    {
+      "label": "Electrician",
+      "icon": "zap"
+    },
+    {
+      "label": "Plumber",
+      "icon": "droplets"
+    },
+    {
+      "label": "House Cleaning",
+      "icon": "sparkles"
+    },
+    {
+      "label": "Carpenter",
+      "icon": "hammer"
+    },
+    {
+      "label": "Painter",
+      "icon": "paintbrush"
+    },
+    {
+      "label": "Pest Control",
+      "icon": "bug"
+    },
+    {
+      "label": "Appliance Repair",
+      "icon": "settings"
+    },
+    {
+      "label": "CCTV & Security",
+      "icon": "shield"
+    },
+    {
+      "label": "Handyman",
+      "icon": "wrench"
+    },
+    {
+      "label": "Landscaping & Gardening",
+      "icon": "leaf"
+    },
+    {
+      "label": "Moving & Packing",
+      "icon": "package"
+    }
+  ],
+  "categories-grid": [
+    {
+      "name": "Electrical",
+      "description": "Wiring, panel upgrades, outlet installation, and safety inspections by licensed electricians.",
+      "icon": "zap",
+      "slug": "electrical"
+    },
+    {
+      "name": "Plumbing",
+      "description": "Pipe repairs, drain cleaning, water heater installation, and leak detection.",
+      "icon": "droplets",
+      "slug": "plumbing"
+    },
+    {
+      "name": "HVAC & Air Conditioning",
+      "description": "AC installation, servicing, gas refill, duct cleaning, and heating repairs.",
+      "icon": "wind",
+      "slug": "hvac"
+    },
+    {
+      "name": "Cleaning",
+      "description": "Deep cleaning, move-in/out cleaning, carpet cleaning, and regular housekeeping.",
+      "icon": "sparkles",
+      "slug": "cleaning"
+    },
+    {
+      "name": "Carpentry & Furniture",
+      "description": "Custom furniture, wardrobes, door fitting, and wood repair.",
+      "icon": "hammer",
+      "slug": "carpentry"
+    },
+    {
+      "name": "Painting & Decorating",
+      "description": "Interior and exterior painting, wallpaper hanging, and surface prep.",
+      "icon": "paintbrush",
+      "slug": "painting"
+    },
+    {
+      "name": "Pest Control",
+      "description": "Termite treatment, rodent control, cockroach extermination, and annual contracts.",
+      "icon": "shield",
+      "slug": "pest-control"
+    },
+    {
+      "name": "Appliance Repair",
+      "description": "Washing machines, refrigerators, ovens, dishwashers, and small appliances.",
+      "icon": "settings",
+      "slug": "appliance-repair"
+    },
+    {
+      "name": "Security & CCTV",
+      "description": "Camera installation, smart locks, alarm systems, and video doorbell setup.",
+      "icon": "eye",
+      "slug": "security"
+    },
+    {
+      "name": "Landscaping & Gardening",
+      "description": "Lawn mowing, hedge trimming, garden design, and seasonal planting.",
+      "icon": "leaf",
+      "slug": "landscaping"
+    },
+    {
+      "name": "Moving & Packing",
+      "description": "Local moves, packing services, furniture assembly, and storage solutions.",
+      "icon": "package",
+      "slug": "moving"
+    },
+    {
+      "name": "Handyman",
+      "description": "General repairs, shelf mounting, tile fixing, caulking, and odd jobs around the home.",
+      "icon": "wrench",
+      "slug": "handyman"
+    }
+  ],
+  "how-it-works": [
+    {
+      "step": "01",
+      "title": "Search",
+      "description": "Enter the service you need and your location. Fixly instantly surfaces verified professionals available in your area."
+    },
+    {
+      "step": "02",
+      "title": "Compare",
+      "description": "Browse provider profiles with real photos, verified badges, star ratings, experience levels, and transparent pricing — all in one place."
+    },
+    {
+      "step": "03",
+      "title": "Book",
+      "description": "Choose your preferred date and time slot, describe the job, and confirm your booking in seconds. No deposit required for most services."
+    },
+    {
+      "step": "04",
+      "title": "Track & Review",
+      "description": "Follow your professional's arrival in real time, get the job done, then leave a review to help your community."
+    }
+  ],
+  "why-choose-us": [
+    {
+      "title": "Verified & Background-Checked",
+      "description": "Every professional on Fixly passes a rigorous identity check, licence verification, and background screening before their first booking.",
+      "icon": "shield-check"
+    },
+    {
+      "title": "Transparent Pricing",
+      "description": "See exact rates upfront. No hidden call-out fees, no surprise invoices. What you see is what you pay.",
+      "icon": "dollar-sign"
+    },
+    {
+      "title": "Real-Time Tracking",
+      "description": "Know exactly when your pro will arrive with our live Uber-style tracking. No more waiting around all day.",
+      "icon": "map-pin"
+    },
+    {
+      "title": "Secure Payments",
+      "description": "Pay safely through the app with card, digital wallet, or cash. Funds are only released once you confirm the job is complete.",
+      "icon": "lock"
+    },
+    {
+      "title": "Satisfaction Guarantee",
+      "description": "If you're not happy with the work, Fixly will arrange a free re-do or a full refund — no questions asked.",
+      "icon": "star"
+    },
+    {
+      "title": "24/7 Customer Support",
+      "description": "Our support team is available around the clock via chat, email, or phone to resolve any issue fast.",
+      "icon": "headphones"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Aisha Mensah",
+      "role": "Homeowner in Atlanta",
+      "quote": "My AC broke on the hottest day of the year. I found a Fixly technician, booked him in 3 minutes, and he was at my door within 2 hours. Absolute lifesaver.",
+      "rating": 5,
+      "avatar": "/images/testimonial-aisha-mensah.jpg"
+    },
+    {
+      "name": "Daniel Okafor",
+      "role": "Property Manager in Houston",
+      "quote": "I manage 14 rental units and Fixly has completely replaced my old contractor rolodex. The verified badges and upfront pricing make it so easy to trust new providers.",
+      "rating": 5,
+      "avatar": "/images/testimonial-daniel-okafor.jpg"
+    },
+    {
+      "name": "Priya Sharma",
+      "role": "First-Time Homeowner in Chicago",
+      "quote": "As someone who had no idea who to call for a plumbing emergency, Fixly felt like having a knowledgeable friend on speed dial. The live tracking was incredibly reassuring.",
+      "rating": 5,
+      "avatar": "/images/testimonial-priya-sharma.jpg"
+    },
+    {
+      "name": "Marcus Webb",
+      "role": "Landlord in Phoenix",
+      "quote": "I've used Fixly for everything from painting to pest control. The quality is consistently high and the review system keeps providers accountable. Highly recommend.",
+      "rating": 5,
+      "avatar": "/images/testimonial-marcus-webb.jpg"
+    },
+    {
+      "name": "Sofia Reyes",
+      "role": "Busy Parent in Miami",
+      "quote": "I booked a deep clean for a Saturday morning while the kids were at soccer. The cleaner arrived on time, did a brilliant job, and I paid through the app without any fuss.",
+      "rating": 5,
+      "avatar": "/images/testimonial-sofia-reyes.jpg"
+    }
+  ],
+  "provider-cta": [
+    {
+      "title": "Earn more",
+      "description": "Access thousands of local customers actively looking for your skills right now."
+    },
+    {
+      "title": "Stay in control",
+      "description": "Set your own availability, service area, and pricing. Accept only the jobs you want."
+    },
+    {
+      "title": "Get paid fast",
+      "description": "Payments are processed automatically and deposited within 24 hours of job completion."
+    },
+    {
+      "title": "Build your reputation",
+      "description": "Collect verified reviews that help you stand out and win more bookings over time."
+    }
+  ],
+  "faq": [
+    {
+      "question": "How does Fixly verify its professionals?",
+      "answer": "Every provider goes through an 8-step onboarding process including government ID verification, trade licence checks, insurance confirmation, and a background screening. Only approved professionals appear in search results."
+    },
+    {
+      "question": "Is there a booking fee for customers?",
+      "answer": "No. Fixly is completely free to use for customers. You only pay the service provider's quoted rate, with no hidden platform fees added at checkout."
+    },
+    {
+      "question": "Can I book a same-day appointment?",
+      "answer": "Yes! Many Fixly professionals offer same-day and even emergency bookings. Use the 'Available Today' filter on the search page to find pros who can come right away."
+    },
+    {
+      "question": "What if I'm not satisfied with the work?",
+      "answer": "Fixly offers a Satisfaction Guarantee. If the job doesn't meet the agreed standard, contact us within 48 hours and we'll arrange a free re-do or process a refund."
+    },
+    {
+      "question": "How do I pay for a service?",
+      "answer": "You can pay securely through the Fixly app using a credit or debit card, digital wallet (Apple Pay / Google Pay), or cash directly to the provider. Payment is only confirmed once you mark the job as complete."
+    },
+    {
+      "question": "Can I reschedule or cancel a booking?",
+      "answer": "Yes. You can reschedule or cancel any booking up to 2 hours before the scheduled start time at no charge. Late cancellations may incur a small fee to compensate the professional for their time."
+    },
+    {
+      "question": "How do I become a service provider on Fixly?",
+      "answer": "Head to the 'Join as a Provider' page and complete our guided 8-step verification wizard. Most applications are reviewed and approved within 2 business days."
+    },
+    {
+      "question": "Is Fixly available in my city?",
+      "answer": "Fixly currently operates in 200+ cities across the US. Enter your location in the search bar to see available professionals near you. We're expanding rapidly — sign up for updates if we're not in your area yet."
+    }
+  ],
+  "footer": [
+    {
+      "section": "Company",
+      "links": [
+        "About Fixly",
+        "Careers",
+        "Press",
+        "Blog",
+        "Contact Us"
+      ]
+    },
+    {
+      "section": "For Customers",
+      "links": [
+        "How It Works",
+        "Browse Services",
+        "Find Professionals",
+        "Customer Dashboard",
+        "Payments & Receipts"
+      ]
+    },
+    {
+      "section": "For Professionals",
+      "links": [
+        "Join as a Provider",
+        "Provider Dashboard",
+        "Earnings",
+        "Verification",
+        "Provider FAQ"
+      ]
+    },
+    {
+      "section": "Support",
+      "links": [
+        "Help Centre",
+        "Safety & Trust",
+        "Satisfaction Guarantee",
+        "Report an Issue",
+        "Community Guidelines"
+      ]
+    },
+    {
+      "section": "Legal",
+      "links": [
+        "Privacy Policy",
+        "Terms of Service",
+        "Cookie Policy",
+        "Accessibility Statement"
+      ]
+    },
+    {
+      "section": "Download the App",
+      "links": [
+        "Available on the App Store",
+        "Available on Google Play"
+      ]
+    },
+    {
+      "section": "Social",
+      "links": [
+        "Instagram",
+        "Twitter/X",
+        "Facebook",
+        "LinkedIn"
+      ]
+    },
+    {
+      "section": "Copyright",
+      "links": [
+        "© 2024 Fixly Technologies, Inc. All rights reserved."
+      ]
+    }
+  ],
+  "search-header": [
+    {
+      "label": "Search by service",
+      "description": "e.g. 'AC Repair', 'Plumber', 'House Cleaning'"
+    },
+    {
+      "label": "Enter your location",
+      "description": "or allow GPS to find nearby professionals"
+    },
+    {
+      "label": "Pick your preferred date",
+      "description": "to see real-time availability"
+    },
+    {
+      "label": "Hit Search",
+      "description": "to instantly browse matching, verified providers"
+    }
+  ],
+  "filters-sidebar": [
+    {
+      "label": "Service Category",
+      "options": [
+        "AC Repair",
+        "Electrician",
+        "Plumber",
+        "Carpenter",
+        "Painter",
+        "Cleaner",
+        "Pest Control",
+        "Appliance Repair",
+        "Landscaping",
+        "Locksmith",
+        "CCTV & Security",
+        "Moving & Packing"
+      ]
+    },
+    {
+      "label": "Location & Distance",
+      "options": [
+        "Within 2 km",
+        "Within 5 km",
+        "Within 10 km",
+        "Within 25 km",
+        "Any distance"
+      ]
+    },
+    {
+      "label": "Price Range",
+      "options": [
+        "$10/hr to $200/hr"
+      ]
+    },
+    {
+      "label": "Minimum Rating",
+      "options": [
+        "4.5★ and above",
+        "4★ and above",
+        "3.5★ and above",
+        "Any rating"
+      ]
+    },
+    {
+      "label": "Availability",
+      "options": [
+        "Available Today",
+        "Available This Week",
+        "Choose a specific date"
+      ]
+    },
+    {
+      "label": "Years of Experience",
+      "options": [
+        "1+ years",
+        "3+ years",
+        "5+ years",
+        "10+ years"
+      ]
+    },
+    {
+      "label": "Verified Professionals Only",
+      "options": [
+        "Show only Fixly-verified and background-checked providers"
+      ]
+    },
+    {
+      "label": "Accepts Emergency Bookings",
+      "options": [
+        "Filter for pros who respond within 2 hours"
+      ]
+    }
+  ],
+  "sorting-options": [
+    {
+      "label": "Recommended",
+      "description": "Fixly's smart ranking based on rating, response rate, and proximity"
+    },
+    {
+      "label": "Top Rated",
+      "description": "Highest average customer rating first (4.9★ → 4.0★)"
+    },
+    {
+      "label": "Lowest Price",
+      "description": "Most affordable hourly rate or fixed-price jobs listed first"
+    },
+    {
+      "label": "Nearest",
+      "description": "Closest professionals to your entered location shown first"
+    },
+    {
+      "label": "Most Experienced",
+      "description": "Ranked by years in the trade, highest first"
+    },
+    {
+      "label": "Most Reviewed",
+      "description": "Professionals with the highest number of verified customer reviews"
+    }
+  ],
+  "results-grid": [
+    {
+      "name": "Marcus Webb",
+      "specialty": "AC & HVAC Specialist",
+      "rating": 4.9,
+      "reviews": 318,
+      "experience": 11,
+      "verified": true,
+      "price": "$85/hr",
+      "distance": "1.2 km away",
+      "availability": "Available Today",
+      "quote": "Diagnosed and fixed our central AC unit in under 2 hours. Incredibly professional and honest about pricing.",
+      "avatar": "/images/provider-marcus-webb.jpg"
+    },
+    {
+      "name": "Priya Sharma",
+      "specialty": "Licensed Electrician",
+      "rating": 4.8,
+      "reviews": 204,
+      "experience": 8,
+      "verified": true,
+      "price": "$75/hr",
+      "distance": "2.7 km away",
+      "availability": "Available Tomorrow",
+      "quote": "Rewired our entire kitchen safely and on budget. Priya explained every step clearly and cleaned up perfectly.",
+      "avatar": "/images/provider-priya-sharma.jpg"
+    },
+    {
+      "name": "Carlos Mendez",
+      "specialty": "Master Plumber",
+      "rating": 4.9,
+      "reviews": 412,
+      "experience": 14,
+      "verified": true,
+      "price": "$70/hr",
+      "distance": "3.1 km away",
+      "availability": "Available Today",
+      "quote": "Fixed a burst pipe at 9 PM on a Sunday. Arrived in 40 minutes and had it sorted within the hour. Absolute lifesaver.",
+      "avatar": "/images/provider-carlos-mendez.jpg"
+    },
+    {
+      "name": "Aisha Okonkwo",
+      "specialty": "Professional House Cleaner",
+      "rating": 4.7,
+      "reviews": 189,
+      "experience": 5,
+      "verified": true,
+      "price": "$45/hr",
+      "distance": "0.8 km away",
+      "availability": "Available Today",
+      "quote": "Aisha transformed our home before a family event. Thorough, trustworthy, and incredibly detail-oriented.",
+      "avatar": "/images/provider-aisha-okonkwo.jpg"
+    },
+    {
+      "name": "Daniel Park",
+      "specialty": "Carpenter & Furniture Assembly",
+      "rating": 4.8,
+      "reviews": 97,
+      "experience": 7,
+      "verified": true,
+      "price": "$60/hr",
+      "distance": "4.4 km away",
+      "availability": "Next Available: Thu",
+      "quote": "Built custom shelving for our living room. The craftsmanship was outstanding and he finished a day ahead of schedule.",
+      "avatar": "/images/provider-daniel-park.jpg"
+    },
+    {
+      "name": "Fatima Al-Rashid",
+      "specialty": "Interior & Exterior Painter",
+      "rating": 4.6,
+      "reviews": 143,
+      "experience": 6,
+      "verified": true,
+      "price": "$55/hr",
+      "distance": "5.0 km away",
+      "availability": "Available This Week",
+      "quote": "Repainted our entire downstairs in two days. Clean lines, no mess, and the color matching was spot on.",
+      "avatar": "/images/provider-fatima-al-rashid.jpg"
+    },
+    {
+      "name": "James Okafor",
+      "specialty": "Pest Control Technician",
+      "rating": 4.8,
+      "reviews": 221,
+      "experience": 9,
+      "verified": true,
+      "price": "$90 flat",
+      "distance": "3.8 km away",
+      "availability": "Available Today",
+      "quote": "Dealt with a serious termite problem quickly and discreetly. James followed up a week later to make sure everything was clear.",
+      "avatar": "/images/provider-james-okafor.jpg"
+    },
+    {
+      "name": "Mei-Ling Chen",
+      "specialty": "Appliance Repair Specialist",
+      "rating": 4.7,
+      "reviews": 156,
+      "experience": 6,
+      "verified": true,
+      "price": "$65/hr",
+      "distance": "2.2 km away",
+      "availability": "Available Tomorrow",
+      "quote": "Fixed our washing machine in one visit when two other technicians had given up. Mei-Ling is the real deal.",
+      "avatar": "/images/provider-mei-ling-chen.jpg"
+    },
+    {
+      "name": "Ravi Patel",
+      "specialty": "Locksmith & Security Expert",
+      "rating": 4.9,
+      "reviews": 88,
+      "experience": 12,
+      "verified": true,
+      "price": "$50 flat",
+      "distance": "1.5 km away",
+      "availability": "Emergency Available",
+      "quote": "Locked out at midnight — Ravi arrived in 20 minutes and had us back inside without any damage to the door. Brilliant service.",
+      "avatar": "/images/provider-ravi-patel.jpg"
+    },
+    {
+      "name": "Sofia Reyes",
+      "specialty": "Landscaping & Garden Care",
+      "rating": 4.6,
+      "reviews": 74,
+      "experience": 4,
+      "verified": true,
+      "price": "$50/hr",
+      "distance": "6.1 km away",
+      "availability": "Available This Week",
+      "quote": "Completely redesigned our backyard garden. Sofia has a real eye for layout and the plants she recommended are thriving.",
+      "avatar": "/images/provider-sofia-reyes.jpg"
+    },
+    {
+      "name": "Thomas Nkrumah",
+      "specialty": "CCTV & Smart Home Security",
+      "rating": 4.8,
+      "reviews": 112,
+      "experience": 8,
+      "verified": true,
+      "price": "$95/hr",
+      "distance": "4.9 km away",
+      "availability": "Available Tomorrow",
+      "quote": "Installed a full 8-camera system with remote app access. Thomas walked us through everything and the setup was flawless.",
+      "avatar": "/images/provider-thomas-nkrumah.jpg"
+    },
+    {
+      "name": "Leila Hosseini",
+      "specialty": "Moving & Packing Coordinator",
+      "rating": 4.7,
+      "reviews": 203,
+      "experience": 7,
+      "verified": true,
+      "price": "$80/hr",
+      "distance": "7.3 km away",
+      "availability": "Available This Week",
+      "quote": "Leila and her crew moved our 3-bedroom apartment in 4 hours with zero damage. Worth every penny for the peace of mind.",
+      "avatar": "/images/provider-leila-hosseini.jpg"
+    }
+  ],
+  "header-with-photo": [
+    {
+      "label": "Rating",
+      "value": "4.92 rating — 318 verified reviews"
+    },
+    {
+      "label": "Verified",
+      "value": "Fixly Verified Professional — background-checked & licensed"
+    },
+    {
+      "label": "Availability",
+      "value": "Available today — next slot at 2:00 PM"
+    },
+    {
+      "label": "Distance",
+      "value": "4.3 miles away · Covers up to 30-mile radius"
+    },
+    {
+      "label": "Experience",
+      "value": "11 years in business · 1,200+ jobs completed"
+    },
+    {
+      "label": "Pricing",
+      "value": "Starting from $85/hr · Free inspection on first visit"
+    }
+  ],
+  "about-section": [
+    {
+      "label": "License",
+      "value": "Licensed Master Electrician — Texas License #ME-2041-TX"
+    },
+    {
+      "label": "Insurance",
+      "value": "Fully insured with $2M general liability coverage"
+    },
+    {
+      "label": "Warranty",
+      "value": "12-month labor warranty on all completed work"
+    },
+    {
+      "label": "Languages",
+      "value": "Fluent in English and Spanish"
+    },
+    {
+      "label": "Certification",
+      "value": "Certified in EV charger installation (Level 1 & Level 2)"
+    },
+    {
+      "label": "Membership",
+      "value": "Member of the Independent Electrical Contractors (IEC) Association"
+    }
+  ],
+  "services-pricing": [
+    {
+      "service": "Electrical Panel Upgrade (100A → 200A)",
+      "price": "from $1,200",
+      "note": "Includes permit filing and city inspection coordination"
+    },
+    {
+      "service": "Outlet & Switch Replacement",
+      "price": "$85–$140 per outlet",
+      "note": "Same-day service available"
+    },
+    {
+      "service": "Ceiling Fan Installation",
+      "price": "$95 flat rate",
+      "note": "Includes wiring check and safe mounting"
+    },
+    {
+      "service": "EV Charger Installation (Level 2)",
+      "price": "from $350",
+      "note": "Compatible with Tesla, Ford, Rivian, and all J1772 vehicles"
+    },
+    {
+      "service": "Recessed Lighting Installation",
+      "price": "$65 per light",
+      "note": "Minimum 4 lights for this rate"
+    },
+    {
+      "service": "Smoke & CO Detector Installation",
+      "price": "$55 per unit",
+      "note": "Interconnected hardwired systems available"
+    },
+    {
+      "service": "Circuit Breaker Replacement",
+      "price": "$120–$200",
+      "note": "Diagnosis included at no extra charge"
+    },
+    {
+      "service": "Emergency Electrical Repair",
+      "price": "$145/hr",
+      "note": "Available 24/7 for urgent faults"
+    }
+  ],
+  "portfolio": [
+    {
+      "title": "Full 200A Panel Upgrade",
+      "location": "Cedar Park home, 2024",
+      "description": "Replaced aging 100A Federal Pacific panel, added surge protection and whole-home GFCI",
+      "image": "/images/portfolio-panel-upgrade.jpg"
+    },
+    {
+      "title": "EV Charger Install (Tesla Wall Connector)",
+      "location": "South Austin garage, 2024",
+      "description": "Ran dedicated 60A circuit, installed weatherproof outdoor enclosure",
+      "image": "/images/portfolio-ev-charger.jpg"
+    },
+    {
+      "title": "Recessed Lighting Retrofit",
+      "location": "Open-plan kitchen in Buda, TX, 2023",
+      "description": "14 LED wafer lights, dimmable, no attic access required",
+      "image": "/images/portfolio-recessed-lighting.jpg"
+    },
+    {
+      "title": "Outdoor Landscape Lighting",
+      "location": "Lakeway estate, 2023",
+      "description": "Low-voltage pathway and uplighting system with smart timer integration",
+      "image": "/images/portfolio-landscape-lighting.jpg"
+    },
+    {
+      "title": "Commercial Office Rewire",
+      "location": "3,200 sq ft co-working space, Round Rock, 2023",
+      "description": "Full rewire, data conduit, and dedicated server room circuit",
+      "image": "/images/portfolio-office-rewire.jpg"
+    },
+    {
+      "title": "Generator Transfer Switch Installation",
+      "location": "Pflugerville residence, 2024",
+      "description": "22kW Generac standby generator with automatic transfer switch",
+      "image": "/images/portfolio-generator.jpg"
+    }
+  ],
+  "availability-calendar": [
+    {
+      "day": "Today (Mon, Jul 14)",
+      "slots": [
+        "2:00 PM",
+        "4:30 PM"
+      ],
+      "status": "available"
+    },
+    {
+      "day": "Tue, Jul 15",
+      "slots": [
+        "9:00 AM",
+        "11:00 AM",
+        "3:00 PM"
+      ],
+      "status": "available"
+    },
+    {
+      "day": "Wed, Jul 16",
+      "slots": [],
+      "status": "fully-booked"
+    },
+    {
+      "day": "Thu, Jul 17",
+      "slots": [
+        "8:00 AM",
+        "10:00 AM",
+        "1:00 PM"
+      ],
+      "status": "available"
+    },
+    {
+      "day": "Fri, Jul 18",
+      "slots": [
+        "9:00 AM",
+        "2:00 PM"
+      ],
+      "status": "available"
+    },
+    {
+      "day": "Sat, Jul 19",
+      "slots": [
+        "10:00 AM"
+      ],
+      "status": "limited"
+    },
+    {
+      "day": "Sun, Jul 20",
+      "slots": [],
+      "status": "unavailable"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Sandra K.",
+      "role": "Homeowner in Austin",
+      "rating": 5,
+      "text": "Marcus upgraded our entire panel and installed an EV charger in one day. He explained every step, cleaned up perfectly, and the city inspection passed first try. Absolutely the best electrician I've hired.",
+      "avatar": "/images/reviewer-sandra-k.jpg"
+    },
+    {
+      "name": "Derek T.",
+      "role": "Property Manager in Round Rock",
+      "rating": 5,
+      "text": "We use Marcus for all our rental properties now. He's reliable, licensed, and his pricing is completely transparent. Had a tricky circuit issue that two other electricians couldn't diagnose — Marcus found it in 20 minutes.",
+      "avatar": "/images/reviewer-derek-t.jpg"
+    },
+    {
+      "name": "Priya M.",
+      "role": "Homeowner in Cedar Park",
+      "rating": 4,
+      "text": "Great work on our recessed lighting — the kitchen looks completely transformed. Arrived on time and finished ahead of schedule. Knocked one star only because scheduling took a couple of days, but the quality was worth the wait.",
+      "avatar": "/images/reviewer-priya-m.jpg"
+    },
+    {
+      "name": "James L.",
+      "role": "Small Business Owner in Pflugerville",
+      "rating": 5,
+      "text": "Called Marcus for an emergency fault at our restaurant on a Saturday night. He was on-site within 90 minutes and had us back up and running before closing. Saved us thousands in lost revenue. Couldn't recommend him more highly.",
+      "avatar": "/images/reviewer-james-l.jpg"
+    },
+    {
+      "name": "Alicia R.",
+      "role": "Homeowner in Buda",
+      "rating": 5,
+      "text": "Hired Marcus to install smoke detectors and replace some outdated outlets. Super professional, very friendly, and he noticed a potential hazard we didn't even call about — fixed it on the spot. That kind of thoroughness is rare.",
+      "avatar": "/images/reviewer-alicia-r.jpg"
+    }
+  ],
+  "service-area": [
+    {
+      "city": "Austin, TX",
+      "note": "Primary service area (no travel fee)"
+    },
+    {
+      "city": "Cedar Park, TX",
+      "note": "Covered (no travel fee)"
+    },
+    {
+      "city": "Round Rock, TX",
+      "note": "Covered (no travel fee)"
+    },
+    {
+      "city": "Pflugerville, TX",
+      "note": "Covered (no travel fee)"
+    },
+    {
+      "city": "Buda, TX",
+      "note": "Covered (no travel fee)"
+    },
+    {
+      "city": "Lakeway, TX",
+      "note": "Covered (no travel fee)"
+    },
+    {
+      "city": "Georgetown, TX",
+      "note": "Available with $15 travel surcharge"
+    },
+    {
+      "city": "Kyle, TX",
+      "note": "Available with $15 travel surcharge"
+    }
+  ],
+  "cta-book": [
+    {
+      "label": "No upfront payment required",
+      "description": "pay after the job is done"
+    },
+    {
+      "label": "Free cancellation",
+      "description": "up to 4 hours before your appointment"
+    },
+    {
+      "label": "12-month labor warranty",
+      "description": "included on all work"
+    },
+    {
+      "label": "Fixly Satisfaction Guarantee",
+      "description": "if something's not right, we'll make it right"
+    }
+  ],
+  "progress-indicator": [
+    {
+      "step": 1,
+      "title": "Select Service",
+      "description": "Choose the specific service you need from Marcus's offerings"
+    },
+    {
+      "step": 2,
+      "title": "Describe Problem",
+      "description": "Tell us what's going on and attach any helpful photos"
+    },
+    {
+      "step": 3,
+      "title": "Pick Date & Time",
+      "description": "Choose a date and time slot that works for you"
+    },
+    {
+      "step": 4,
+      "title": "Your Address",
+      "description": "Confirm where the job needs to be done"
+    },
+    {
+      "step": 5,
+      "title": "Review & Confirm",
+      "description": "Double-check everything before locking in your booking"
+    }
+  ],
+  "step-service": [
+    {
+      "name": "Electrical Fault Diagnosis",
+      "description": "Identify tripping breakers, dead outlets, or flickering lights",
+      "price": "from $85"
+    },
+    {
+      "name": "Switchboard Upgrade & Replacement",
+      "description": "Upgrade outdated fuse boxes to modern circuit breaker panels",
+      "price": "from $320"
+    },
+    {
+      "name": "Power Point Installation",
+      "description": "Add new GPOs, USB outlets, or outdoor weatherproof sockets",
+      "price": "from $110"
+    },
+    {
+      "name": "Ceiling Fan & Light Fixture Installation",
+      "description": "Safe installation of fans, downlights, pendants, or chandeliers",
+      "price": "from $95"
+    },
+    {
+      "name": "Safety Switch (RCD) Installation",
+      "description": "Protect your home with compliant residual current device fitting",
+      "price": "from $140"
+    },
+    {
+      "name": "EV Charger Installation",
+      "description": "Home electric vehicle charger setup with load balancing",
+      "price": "from $480"
+    },
+    {
+      "name": "Emergency Electrical Repair",
+      "description": "Priority same-day response for urgent faults and outages",
+      "price": "from $150"
+    },
+    {
+      "name": "Smoke Alarm Compliance Check",
+      "description": "Test, replace, and certify smoke alarms to local code",
+      "price": "from $75"
+    }
+  ],
+  "step-problem-description": [
+    {
+      "label": "What's happening?",
+      "description": "Describe the issue in your own words (e.g. 'Three power points in my kitchen stopped working after a storm last Tuesday')"
+    },
+    {
+      "label": "When did it start?",
+      "description": "Approximate date or timeframe helps the professional plan parts and tools"
+    },
+    {
+      "label": "Have you tried anything?",
+      "description": "Let us know if you've already reset a breaker, called your energy provider, or attempted a fix"
+    },
+    {
+      "label": "Safety concern?",
+      "description": "Flag if there are sparks, burning smells, exposed wires, or any immediate hazard so Marcus can prioritise"
+    },
+    {
+      "label": "Photo / video upload",
+      "description": "Attach images of the affected area, your switchboard, or any visible damage (JPG, PNG, MP4 accepted)"
+    },
+    {
+      "label": "AI Suggestion",
+      "description": "Based on 'kitchen power points not working', Fixly suggests: Electrical Fault Diagnosis or Safety Switch Inspection"
+    }
+  ],
+  "step-date-time": [
+    {
+      "date": "Today, Tuesday 18 June",
+      "slots": [
+        "2:00 PM",
+        "4:30 PM"
+      ],
+      "note": "Emergency slots available"
+    },
+    {
+      "date": "Wednesday 19 June",
+      "slots": [
+        "8:00 AM",
+        "10:00 AM",
+        "1:00 PM",
+        "3:00 PM"
+      ],
+      "note": ""
+    },
+    {
+      "date": "Thursday 20 June",
+      "slots": [
+        "9:00 AM",
+        "2:00 PM",
+        "5:00 PM"
+      ],
+      "note": ""
+    },
+    {
+      "date": "Friday 21 June",
+      "slots": [
+        "8:00 AM",
+        "11:00 AM"
+      ],
+      "note": "Afternoon fully booked"
+    },
+    {
+      "date": "Saturday 22 June",
+      "slots": [
+        "9:00 AM",
+        "1:00 PM"
+      ],
+      "note": "Weekend surcharge applies: +$25"
+    },
+    {
+      "date": "Sunday 23 June",
+      "slots": [],
+      "note": "Unavailable"
+    },
+    {
+      "date": "Duration",
+      "slots": [],
+      "note": "Estimated 1–2 hours for Electrical Fault Diagnosis; Marcus will confirm on arrival"
+    },
+    {
+      "date": "Reminder",
+      "slots": [],
+      "note": "Get an SMS reminder 2 hours before your appointment (opt-in)"
+    }
+  ],
+  "step-address": [
+    {
+      "label": "Street address",
+      "description": "Unit number, street name, and suburb (e.g. 14/82 Crown Street, Surry Hills NSW 2010)"
+    },
+    {
+      "label": "Saved addresses",
+      "description": "Use a previously saved address: Home (14/82 Crown St, Surry Hills) or Work (Level 3, 201 Elizabeth St, Sydney CBD)"
+    },
+    {
+      "label": "Access instructions",
+      "description": "Buzzer code, gate PIN, parking notes, or anything Marcus needs to find you (e.g. 'Intercom #14, park on Crown St')"
+    },
+    {
+      "label": "Property type",
+      "description": "House / Apartment / Townhouse / Commercial — helps Marcus bring the right equipment"
+    },
+    {
+      "label": "Service area check",
+      "description": "Confirmed: Surry Hills is within the 25 km service radius"
+    },
+    {
+      "label": "Privacy note",
+      "description": "Your full address is encrypted and only revealed to the professional after booking confirmation"
+    }
+  ],
+  "step-review-confirm": [
+    {
+      "label": "Professional",
+      "value": "Marcus Reid · 4.9 (214 reviews) · Verified Electrician · 9 years experience"
+    },
+    {
+      "label": "Service",
+      "value": "Electrical Fault Diagnosis"
+    },
+    {
+      "label": "Problem summary",
+      "value": "Kitchen power points stopped working after a storm. Three GPOs affected, no sparks visible. + 2 photos attached"
+    },
+    {
+      "label": "Date & Time",
+      "value": "Wednesday 19 June · 10:00 AM AEST · Estimated duration: 1–2 hours"
+    },
+    {
+      "label": "Location",
+      "value": "14/82 Crown Street, Surry Hills NSW 2010 · Access: Intercom #14"
+    },
+    {
+      "label": "Pricing breakdown",
+      "value": "Service call-out: $85 · Platform fee: $8.50 · GST (10%): $9.35 · Estimated total: $102.85"
+    },
+    {
+      "label": "Payment method",
+      "value": "Visa ending in 4242 · You will not be charged until the job is marked complete"
+    },
+    {
+      "label": "Cancellation policy",
+      "value": "Free cancellation up to 24 hours before appointment. Late cancellation fee: $25"
+    },
+    {
+      "label": "Agreement",
+      "value": "By confirming, you agree to Fixly's Terms of Service and the provider's service agreement"
+    }
+  ],
+  "featured-professionals": [
+    {
+      "name": "Carlos Mendez",
+      "specialty": "Master Electrician",
+      "rating": 4.97,
+      "reviews": 312,
+      "experience": 11,
+      "price": "From $85/hr",
+      "availability": "Available today in Southside & surrounds",
+      "bio": "Specialises in switchboard upgrades and EV charger installation.",
+      "avatar": "/images/featured-carlos-mendez.jpg"
+    },
+    {
+      "name": "Aisha Okonkwo",
+      "specialty": "Plumbing Expert",
+      "rating": 4.95,
+      "reviews": 278,
+      "experience": 9,
+      "price": "From $75/hr",
+      "availability": "Available tomorrow in Northshore & CBD",
+      "bio": "Known for fast leak detection and same-day pipe repairs.",
+      "avatar": "/images/featured-aisha-okonkwo.jpg"
+    },
+    {
+      "name": "James Tran",
+      "specialty": "HVAC Specialist",
+      "rating": 4.93,
+      "reviews": 401,
+      "experience": 14,
+      "price": "From $90/hr",
+      "availability": "Available today in Eastville & surrounds",
+      "bio": "Certified for all major AC brands including Daikin, Mitsubishi, and LG.",
+      "avatar": "/images/featured-james-tran.jpg"
+    },
+    {
+      "name": "Priya Sharma",
+      "specialty": "Professional Cleaner",
+      "rating": 4.98,
+      "reviews": 524,
+      "experience": 6,
+      "price": "From $55/hr",
+      "availability": "Available this weekend across Metro area",
+      "bio": "Brings all eco-friendly supplies; specialises in deep cleans and end-of-lease.",
+      "avatar": "/images/featured-priya-sharma.jpg"
+    },
+    {
+      "name": "Marcus Bell",
+      "specialty": "Handyman Pro",
+      "rating": 4.91,
+      "reviews": 189,
+      "experience": 8,
+      "price": "From $65/hr",
+      "availability": "Available today in Westfield & surrounds",
+      "bio": "Furniture assembly, TV mounting, and minor carpentry — no job too small.",
+      "avatar": "/images/featured-marcus-bell.jpg"
+    },
+    {
+      "name": "Lena Kowalski",
+      "specialty": "Pest Control Technician",
+      "rating": 4.94,
+      "reviews": 237,
+      "experience": 7,
+      "price": "From $120/visit",
+      "availability": "Available this week in all suburbs",
+      "bio": "Fully licensed, child- and pet-safe treatments guaranteed.",
+      "avatar": "/images/featured-lena-kowalski.jpg"
+    }
+  ]
+}
